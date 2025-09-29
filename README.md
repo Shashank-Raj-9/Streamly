@@ -17,4 +17,4 @@
 
 Streamly is a React-based streaming app clone.
 
-![Streamly Homepage](screenshots/Home.png)
+![Streamly Homepage](Screenshots/Home.png)
